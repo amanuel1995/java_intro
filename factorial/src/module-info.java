@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amanuel
+ *
+ */
+module factorial {
+}
